@@ -36,7 +36,7 @@ This is a place for studying Open Source Software Basic (for POSE-AI) in Dankook
 | 1       | 3  | 김명원 | 김태우   | 김병찬   | |
 | 1       | 4  | 주민채 | 고원     | 천명주   | |
 | 1       | 5  | 이영준 | 배승빈   | 신다연   | |
-| 1       | 6  | 이수빈 | 천신위   | 권순우   | |
+| 1       | 6  | 이수빈 | 권순우   | -       | |
 | 1       | 7  | 문준호 | 김민승   | 홍예란   | |
 | 1       | 8  | 조동준 | 신수인   | -       | |
 | 1       | 9  | 한나연 | 김재경   | 이지학   | |
@@ -50,7 +50,7 @@ This is a place for studying Open Source Software Basic (for POSE-AI) in Dankook
 | 2       | 17 | 최준영 | 정민지   | 김현정   | |
 | 2       | 18 | 오주성 | 김준형   | 문형주   | |
 | 2       | 19 | 김재노 | 김상아   | 조성은   | |
-| 2       | 20 | 반소현 | 문주안   | 최호석   ||
+| 2       | 20 | 반소현 | 문주안   | 최호석   | |
 
 #### Class 6
 | Presentation Week | Team | Leader   | Member 1 | Member 2 | GitHub |
