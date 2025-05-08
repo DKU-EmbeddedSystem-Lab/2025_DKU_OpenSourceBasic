@@ -33,9 +33,16 @@ This is a place for studying Open Source Software Basic (for POSE-AI) in Dankook
 ### Class 5
 #### Presentation Week 1
 > **Team 1**
->> 김성태, 박하은, 문소정
->> Subject: 
->> [Github](, "")
+>> 김성태, 박하은, 문소정<br>
+>> Subject: <br>
+>> [Github](, "") <br>
+
+> **Team 2**
+>> 최규빈, 최호준, 이지용<br>
+>> Subject: <br>
+>> [Github](, "") <br>
+
+
 
 | Presentation Week | Team | Leader | Member 1 | Member 2 | GitHub | 
 |-----------|----|--------|----------|----------|----------|
