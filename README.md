@@ -2,8 +2,8 @@
 
 This is a place for studying Open Source Software Basic (for POSE-AI) in Dankook University.
 
-- Professor : Kwanghee Lee
-- Assistant : Nakyeong Kim (Email : nkkim@dankook.ac.kr)
+- Professor : Kwanghee Lee (Email: kh-lee@dankook.ac.kr)
+- Assistant : Nakyeong Kim (Email: nkkim@dankook.ac.kr)
 
 ## Final Project
 
@@ -27,8 +27,16 @@ This is a place for studying Open Source Software Basic (for POSE-AI) in Dankook
 | 14   | Final Check - 2 |
 | 15   | Final Presentation |
 
-### Team
-#### Class 5
+
+## Team
+
+### Class 5
+#### Presentation Week 1
+> **Team 1**
+>> 김성태, 박하은, 문소정
+>> Subject: 
+>> [Github](, "")
+
 | Presentation Week | Team | Leader | Member 1 | Member 2 | GitHub | 
 |-----------|----|--------|----------|----------|----------|
 | 1       | 1  | 김성태 | 박하은   | 문소정   | |
