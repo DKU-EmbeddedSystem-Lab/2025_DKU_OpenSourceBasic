@@ -1,5 +1,5 @@
 # Class 6
-## Presentation Week 1  
+## Presentation Group 1  
 > **Team 1**  
 >> 황성진, 정윤성, 손예빈<br>
 >> Subject: 뉴스 기사 요약 프로그램<br>
@@ -50,7 +50,7 @@
 >> Subject: 테트리스 구현 및 리메이크<br>
 >> [Github](, "") <br>
 
-## Presentation Week 2  
+## Presentation Group 2  
 > **그릴까조(Team 11)**  
 >> 김민석, 이수진, 김승재<br>
 >> Subject: SmartBoard 개발<br>

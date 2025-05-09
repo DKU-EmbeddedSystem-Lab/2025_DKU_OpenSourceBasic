@@ -1,5 +1,5 @@
 # Class 5
-## Presentation Week 1  
+## Presentation Group 1  
 > **Team 1**  
 >> 김성태, 박하은, 문소정<br>
 >> Subject: 유통기한 알리미 웹앱<br>
@@ -50,7 +50,7 @@
 >> Subject: 오픈소스 기반 이미지 필터링 웹서비스<br>
 >> [Github](, "") <br>
 
-## Presentation Week 2  
+## Presentation Group 2  
 > **Team 11**  
 >> 조승희, 윤지용, 이한주<br>
 >> Subject: DAW 프로그램 개발 프로젝트<br>
