@@ -3,12 +3,12 @@
 > **Team 1**  
 >> 황성진, 정윤성, 손예빈<br>
 >> Subject: 뉴스 기사 요약 프로그램<br>
->> [Github](, "") <br>
+>> [Github X](, "") <br>
 
 > **Team 2**  
 >> 성민재, 심조완, 박준영<br>
 >> Subject: 지출 분석과 절약 팁을 제공하는 가계부<br>
->> [Github](, "") <br>
+>> [Github](https://github.com/32202223/Finance-OS) <br>
 
 > **PsySave(Team 3)**  
 >> 황신아, 정상원, 박지성<br>
@@ -18,7 +18,7 @@
 > **Team 4**  
 >> 권나희, 이하현, 조수빈<br>
 >> Subject: 단맛지도<br>
->> [Github](, "") <br>
+>> [Github](https://github.com/hahyunnii/Danmat-Map) <br>
 
 > **어디로가조(Team 5)**  
 >> 안현준, 이혁제, 이정우<br>
@@ -28,7 +28,7 @@
 > **Team 6**  
 >> 이동렬, 이동근, 서우성<br>
 >> Subject: 오늘 뭐 입지?<br>
->> [Github](, "") <br>
+>> [Github](https://github.com/dongryeol00/what-to-wear) <br>
 
 > **Team 7**  
 >> 류지성, 최현경, 이운길<br>
@@ -43,7 +43,7 @@
 > **Team 9**  
 >> 정유찬, 김민준<br>
 >> Subject: ComfyUI 프롬프트 개선<br>
->> [Github](, "") <br>
+>> [Github X](, "") <br>
 
 > **Team 10**  
 >> 장신혁, 강대운, 이승찬<br>
@@ -79,7 +79,7 @@
 > **Team 16**  
 >> 이지훈, 윤치호, 송준서<br>
 >> Subject: Priorify<br>
->> [Github](, "") <br>
+>> [Github](https://github.com/JunSeo99) <br>
 
 > **Team 17**  
 >> 이정현, 제연우, 박동진<br>
@@ -89,7 +89,7 @@
 > **Team 18**  
 >> 장현준, 김민혁, 정진우<br>
 >> Subject: 육등이<br>
->> [Github](, "") <br>
+>> [Github X](, "") <br>
 
 > **좋은노래듣고싶구(Team 19)**  
 >> 최인준, 김유담, 이철진<br>
@@ -99,4 +99,4 @@
 > **Team 20**  
 >> 이정형, 류경현, 정현아<br>
 >> Subject: Python을 사용하여 개발한 텍스트 기반 로그라이크 게임<br>
->> [Github](, "") <br>
+>> [Github X](, "") <br>
