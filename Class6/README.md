@@ -3,7 +3,7 @@
 > **Team 1**  
 >> 황성진, 정윤성, 손예빈<br>
 >> Subject: 뉴스 기사 요약 프로그램<br>
->> [Github X](, "") <br>
+>> [Github](https://github.com/OpenSource-Team1) <br>
 
 > **Team 2**  
 >> 성민재, 심조완, 박준영<br>
