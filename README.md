@@ -27,6 +27,6 @@ This is a place for studying Open Source Software Basic (for POSE-AI) in Dankook
 | 14   | Final Check - 2 |
 | 15   | Final Presentation |
 
-## Class
-### **[Class 5](./Class5/README.md)**  
-### **[Class 6](./Class6/README.md)**  
+### Team
+- **[Class 5](./Class5/README.md)**
+- **[Class 6](./Class6/README.md)**  
