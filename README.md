@@ -21,6 +21,7 @@ This is a place for studying Open Source Software Basic (for POSE-AI) in Dankook
 | 8    | Team Organization   |
 | 9    | Idea Suggestion - 1    |
 | 10   | Idea Suggestion - 2    |
+| 11   | Canceled      |
 | 12   | Mid-Check - 1 |
 | 13   | Mid-Check - 2 |
 | 14   | Final Check - 1 |
