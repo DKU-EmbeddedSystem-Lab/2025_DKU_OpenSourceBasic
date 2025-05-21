@@ -21,11 +21,10 @@ This is a place for studying Open Source Software Basic (for POSE-AI) in Dankook
 | 8    | Team Organization   |
 | 9    | Idea Suggestion - 1    |
 | 10   | Idea Suggestion - 2    |
-| 11   | Mid-Check - 1 |
-| 12   | Mid-Check - 2 |
-| 13   | Final Check - 1 |
-| 14   | Final Check - 2 |
-| 15   | Final Presentation |
+| 12   | Mid-Check - 1 |
+| 13   | Mid-Check - 2 |
+| 14   | Final Check - 1 |
+| 15   | Final Check - 2 |
 
 ### Team
 - **[Class 5](./Class5/README.md)**
