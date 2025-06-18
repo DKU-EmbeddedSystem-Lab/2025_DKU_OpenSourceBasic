@@ -43,7 +43,7 @@
 > **Team 9**  
 >> 정유찬, 김민준<br>
 >> Subject: ComfyUI 프롬프트 개선<br>
->> [Github X](, "") <br>
+>> [Github](https://github.com/mjkim1128/OpenSW-ComfyUI-.git) <br>
 
 > **Team 10**  
 >> 장신혁, 강대운, 이승찬<br>
@@ -89,7 +89,7 @@
 > **Team 18**  
 >> 장현준, 김민혁, 정진우<br>
 >> Subject: 육등이<br>
->> [Github X](, "") <br>
+>> [Github](https://github.com/JINW1002/opensource_project) <br>
 
 > **좋은노래듣고싶구(Team 19)**  
 >> 최인준, 김유담, 이철진<br>
@@ -99,4 +99,4 @@
 > **Team 20**  
 >> 이정형, 류경현, 정현아<br>
 >> Subject: Python을 사용하여 개발한 텍스트 기반 로그라이크 게임<br>
->> [Github X](, "") <br>
+>> [Github](https://github.com/32221490/opsw20) <br>
