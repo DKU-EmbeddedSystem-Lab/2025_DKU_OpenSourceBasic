@@ -69,7 +69,7 @@
 > **Team 14**  
 >> 김영채, 김봉준, 김규한<br>
 >> Subject: 아이 안전사고 예방 교육용 게임<br>
->> [Github X](, "") <br>
+>> [Github](https://github.com/kimbongjun79/Tiny_Steps) <br>
 
 > **Team 15**  
 >> 최현, 김윤서, 안기범<br>
