@@ -8,7 +8,7 @@
 > **Team 2**  
 >> 최규빈, 최호준, 이지용<br>
 >> Subject: Flask+React로 To-do list 만들기<br>
->> [Github X](, "") <br>
+>> [Github](https://github.com/yongLeeJ/OpenSourseSW) <br>
 
 > **Team 3**  
 >> 김명원, 김태우, 김병찬<br>
