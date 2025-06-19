@@ -8,7 +8,7 @@
 > **Team 2**  
 >> 성민재, 심조완, 박준영<br>
 >> Subject: 지출 분석과 절약 팁을 제공하는 가계부<br>
->> [Github](https://github.com/32202223/Finance-OS) <br>
+>> [Github](https://github.com/OpenSourceDKU-FinanceOS) <br>
 
 > **PsySave(Team 3)**  
 >> 황신아, 정상원, 박지성<br>
