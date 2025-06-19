@@ -31,7 +31,7 @@
 > **Team 6**  
 >> 이동렬, 이동근, 서우성<br>
 >> Subject: 오늘 뭐 입지?<br>
->> [Github](https://github.com/dongryeol00/what-to-wear) <br>
+>> [Github](https://github.com/seouseong/what-to-wear) <br>
 
 > **Team 7**  
 >> 류지성, 최현경, 이운길<br>
