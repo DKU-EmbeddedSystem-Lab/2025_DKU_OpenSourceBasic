@@ -18,7 +18,10 @@
 > **Team 4**  
 >> 권나희, 이하현, 조수빈<br>
 >> Subject: 단맛지도<br>
->> Github [1](https://github.com/naheekwon/teamproject1), [2](https://github.com/hahyunnii/DanMat-Map-backend2) <br>
+>> Github
+[통합](https://github.com/naheekwon/teamproject1) <br>
+[Frontend](https://github.com/naheekwon/teamproject1) <br>
+[Backend](https://github.com/hahyunnii/DanMat-Map-backend2) <br>
 
 > **어디로가조(Team 5)**  
 >> 안현준, 이혁제, 이정우<br>
