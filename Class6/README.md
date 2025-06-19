@@ -97,7 +97,7 @@
 > **좋은노래듣고싶구(Team 19)**  
 >> 최인준, 김유담, 이철진<br>
 >> Subject: Spotify API 활용 감정 기반 음악 추천 챗봇<br>
->> [Github](https://github.com/cosmosweet/chore1) <br>
+>> [Github](https://github.com/cosmosweet/chatply-v1.0) <br>
 
 > **Team 20**  
 >> 이정형, 류경현, 정현아<br>
